@@ -1,0 +1,11 @@
+watcom\vdriver.cc(1003): Warning! W604: col(14) must look ahead to determine whether construct is a declaration/type or an expression 
+watcom\vdriver.cc(1003): Warning! W594: col(30) construct resolved as a declaration/type 
+watcom\vdriver.cc(1470): Warning! W604: col(22) must look ahead to determine whether construct is a declaration/type or an expression 
+watcom\vdriver.cc(1470): Warning! W594: col(38) construct resolved as a declaration/type 
+watcom\vdriver.cc(1502): Warning! W604: col(22) must look ahead to determine whether construct is a declaration/type or an expression 
+watcom\vdriver.cc(1502): Warning! W594: col(38) construct resolved as a declaration/type 
+watcom\vdriver.cc(1543): Warning! W604: col(14) must look ahead to determine whether construct is a declaration/type or an expression 
+watcom\vdriver.cc(1543): Warning! W594: col(26) construct resolved as a declaration/type 
+watcom\vdriver.cc(1561): Warning! W604: col(22) must look ahead to determine whether construct is a declaration/type or an expression 
+watcom\vdriver.cc(1561): Warning! W594: col(34) construct resolved as a declaration/type 
+watcom\vdriver.cc(1890): Warning! W389: col(67) integral value may be truncated during assignment or initialization 

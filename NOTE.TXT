@@ -1,0 +1,2 @@
+
+<27jan2000>     DJGPP build does not work right now.
